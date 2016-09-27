@@ -18,3 +18,7 @@
 * integrated console
 * extension ecosystem 
 * themes
+
+## Order of discussion
+* slides
+* 
