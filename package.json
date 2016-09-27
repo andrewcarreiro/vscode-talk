@@ -1,0 +1,14 @@
+{
+  "name": "vscode-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"./tests/**.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
